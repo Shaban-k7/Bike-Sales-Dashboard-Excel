@@ -4,7 +4,7 @@
 
 This project presents an interactive Bike Sales Dashboard built in Microsoft Excel to analyze customer demographics, income levels, and commuting distances that influence bike purchasing decisions. The dashboard transforms raw sales data into meaningful insights using Pivot Tables, Pivot Charts, and Slicers.
 ## Dataset Used
-- <a href = "https://1drv.ms/x/c/71432a0673b0e6eb/IQAlRNM70OZHSqCqEMhWa1e7AYLWBklRz-jf6Oi4WJudbyI?e=jGNtaw"> Dataset View </a>
+- <a href = ""> Dataset View </a>
 
 🎯 Objectives
 Analyze customer purchasing behavior.
