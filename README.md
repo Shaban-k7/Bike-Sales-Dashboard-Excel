@@ -3,6 +3,8 @@
 📌 Project Overview
 
 This project presents an interactive Bike Sales Dashboard built in Microsoft Excel to analyze customer demographics, income levels, and commuting distances that influence bike purchasing decisions. The dashboard transforms raw sales data into meaningful insights using Pivot Tables, Pivot Charts, and Slicers.
+## Dataset Used
+- <a href = "https://1drv.ms/x/c/71432a0673b0e6eb/IQAlRNM70OZHSqCqEMhWa1e7AYLWBklRz-jf6Oi4WJudbyI?e=jGNtaw"> Dataset View </a>
 
 🎯 Objectives
 Analyze customer purchasing behavior.
@@ -10,6 +12,8 @@ Identify key demographic groups driving bike sales.
 Examine the relationship between income and bike purchases.
 Understand how commuting distance affects purchasing decisions.
 Support data-driven business decisions through visual analytics.
+##Dashboard
+<a href = "https://1drv.ms/x/c/71432a0673b0e6eb/IQAlRNM70OZHSqCqEMhWa1e7AYLWBklRz-jf6Oi4WJudbyI?e=5gXzb3">Dashboards</a>
 📊 Dashboard Insights
 1. Age Brackets vs Purchased Bike
 Middle-aged customers represent the largest share of bike purchasers.
