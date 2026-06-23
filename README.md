@@ -29,9 +29,8 @@ Long-distance commuters are less likely to purchase bikes.
 Bike purchasers have higher average incomes than non-purchasers.
 Male customers show higher average income levels than female customers.
 Income appears to be a significant factor influencing bike purchases.
-C:\Users\computer hub\Pictures\Screenshots\Screenshot 2026-06-23 231107.png
-C:\Users\computer hub\Pictures\Screenshots\Screenshot 2026-06-23 231049.png
-C:\Users\computer hub\Pictures\Screenshots\Screenshot 2026-06-23 231020.png
+<a href = "C:\Users\computer hub\Pictures\Screenshots\Screenshot 2026-06-23 231020.png">SS</a>
+
 🛠️ Tools & Techniques Used
 Microsoft Excel
 Data Cleaning
